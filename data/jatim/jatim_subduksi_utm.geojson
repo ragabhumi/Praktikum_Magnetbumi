@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "jatim_subduksi_utm",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32749" } },
+"features": [
+{ "type": "Feature", "properties": { "Id": null, "strnum": 485, "platecode": 673, "datatype": "TR", "dtnum": 1, "refnum": 8021, "appearance": 30.9, "disappeara": -999.0, "color": 3, "geogdesc": "JAVA TRENCH (ACTIVE SUBDUCTION) (C. PART FROM SU" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 341389.343315904028714, 8853716.867317285388708 ], [ 349467.078270174155477, 8853143.230362754315138 ], [ 408030.237431666639168, 8845871.983083959668875 ], [ 457770.106718703464139, 8841678.342551497742534 ] ] ] } },
+{ "type": "Feature", "properties": { "Id": null, "strnum": 486, "platecode": 673, "datatype": "TR", "dtnum": 1, "refnum": 8021, "appearance": 20.1, "disappeara": -999.0, "color": 3, "geogdesc": "JAVA TRENCH (ACTIVE SUBDUCTION) (C. PART FROM SU" }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ 457770.106718703464139, 8841678.342551497742534 ], [ 501586.763544037588872, 8841870.019941221922636 ], [ 557521.977379890624434, 8831019.214054595679045 ], [ 627992.471844765008427, 8822091.144128954038024 ], [ 671243.776581939309835, 8810142.378325860947371 ], [ 740683.305337435100228, 8797655.058317676186562 ], [ 801005.693723772536032, 8787000.797225125133991 ], [ 872296.299748682649806, 8771971.366153094917536 ], [ 902637.845970679190941, 8768554.851553218439221 ] ] ] } }
+]
+}
